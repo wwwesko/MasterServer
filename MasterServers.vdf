@@ -1,0 +1,19 @@
+"MasterServers"
+{
+	"hl1"
+	{
+		"0"
+		{
+			"addr"		"ms.fps-games.bg:27010"
+		}
+		
+	}
+	"hl2"
+	{
+		"0"
+		{
+			"addr"		"ms.fps-games.bg:27011"
+		}
+		
+	}
+}
